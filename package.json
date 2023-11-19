@@ -1,6 +1,6 @@
 {
   "name": "daxiang-img",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "daxiang static file",
   "main": "index.js",
   "scripts": {
